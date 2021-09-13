@@ -6,5 +6,6 @@ public class ClassObject
     {
         System.out.println("hello git");
         System.out.println("ra isok maneh");
+        System.out.println("kepriye carane jal");
     }
 }
